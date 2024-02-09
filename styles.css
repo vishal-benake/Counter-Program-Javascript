@@ -1,0 +1,16 @@
+.counter{
+    text-align: center;
+    justify-content: center;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.buttons button {
+    margin: 5px;
+}
+
+h4{
+    text-align: center;
+}
